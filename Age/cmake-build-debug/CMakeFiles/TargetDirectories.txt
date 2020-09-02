@@ -1,0 +1,3 @@
+H:/Uczenie/Age/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+H:/Uczenie/Age/cmake-build-debug/CMakeFiles/test.dir
+H:/Uczenie/Age/cmake-build-debug/CMakeFiles/edit_cache.dir

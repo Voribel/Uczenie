@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Uczenie/Projekty/Kalkulator/calculations.cpp
+iostream
+-
+vector
+-
+string
+-
+calculations.h
+H:/Uczenie/Projekty/Kalkulator/calculations.h
+
+H:/Uczenie/Projekty/Kalkulator/calculations.h
+iostream
+-
+vector
+-
+utility
+-
+string
+-
+
+H:/Uczenie/Projekty/Kalkulator/main.cpp
+iostream
+-
+string
+-
+utility
+-
+calculations.h
+H:/Uczenie/Projekty/Kalkulator/calculations.h
+

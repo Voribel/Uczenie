@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Uczenie/Calculator/cmake-build-debug/function.cpp
+iostream
+-
+H:/Uczenie/Calculator/function.h
+-
+
+H:/Uczenie/Calculator/function.h
+

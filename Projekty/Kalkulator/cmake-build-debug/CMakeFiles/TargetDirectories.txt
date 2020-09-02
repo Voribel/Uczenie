@@ -1,0 +1,3 @@
+H:/Uczenie/Projekty/Kalkulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+H:/Uczenie/Projekty/Kalkulator/cmake-build-debug/CMakeFiles/Kalkulator.dir
+H:/Uczenie/Projekty/Kalkulator/cmake-build-debug/CMakeFiles/edit_cache.dir

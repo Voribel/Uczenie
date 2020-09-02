@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Kalkulator" targetName="Kalkulator" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d557b9b3-9131-4ce8-9951-ab56d8f313b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Wiktor Głogowski" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1egVeQsRBP1kOqXHX26kToVjNjP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../tezt" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Kalkulator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Kalkulator" TARGET_NAME="Kalkulator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Kalkulator" RUN_TARGET_NAME="Kalkulator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d557b9b3-9131-4ce8-9951-ab56d8f313b6" name="Default Changelist" comment="" />
+      <created>1594743317235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594743317235</updated>
+      <workItem from="1594743318823" duration="612000" />
+      <workItem from="1594749803673" duration="3475000" />
+      <workItem from="1595945714996" duration="205000" />
+      <workItem from="1595945931080" duration="98000" />
+      <workItem from="1595946076161" duration="12870000" />
+      <workItem from="1596025545011" duration="27045000" />
+      <workItem from="1596060103020" duration="2892000" />
+      <workItem from="1596455441490" duration="348000" />
+      <workItem from="1596482925293" duration="12000" />
+      <workItem from="1596482957206" duration="2192000" />
+      <workItem from="1596485588826" duration="3503000" />
+      <workItem from="1597175564747" duration="60000" />
+      <workItem from="1597181359657" duration="328000" />
+      <workItem from="1598000101371" duration="91000" />
+      <workItem from="1598000314417" duration="26000" />
+      <workItem from="1598000850941" duration="20000" />
+      <workItem from="1598208627994" duration="1178000" />
+      <workItem from="1598280233937" duration="691000" />
+      <workItem from="1598282647576" duration="3000" />
+      <workItem from="1598283850208" duration="1911000" />
+      <workItem from="1598826222592" duration="1209000" />
+      <workItem from="1598828648739" duration="263000" />
+      <workItem from="1598828923760" duration="1890000" />
+      <workItem from="1599056300427" duration="109000" />
+      <workItem from="1599057647249" duration="408000" />
+      <workItem from="1599061252278" duration="1812000" />
+      <workItem from="1599065355294" duration="5809000" />
+    </task>
+    <task id="LOCAL-00001" summary="Refactored">
+      <created>1595947646471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595947646471</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactored">
+      <created>1598826736291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598826736291</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refactored">
+      <created>1598828078545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598828078545</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactored" />
+    <MESSAGE value="Split one function to two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Split one function to two" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="183" key="#Intentions" timestamp="1598209724882">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#Intentions/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1598209724882" />
+    <state x="705" y="349" key="#Notifications" timestamp="1599073334716">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="705" y="349" key="#Notifications/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599073334716" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596055392253">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1596055392253" />
+    <state x="869" y="278" key="#xdebugger.XInspectDialog" timestamp="1596055153467">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="869" y="278" key="#xdebugger.XInspectDialog/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1596055153467" />
+    <state x="585" y="93" width="749" height="548" key="CommitChangelistDialog2" timestamp="1599073661326">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="585" y="93" width="749" height="548" key="CommitChangelistDialog2/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599073661326" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1598000191804">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1598000191804" />
+    <state width="1877" height="402" key="GridCell.Tab.0.bottom" timestamp="1599072557474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="402" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599072557474" />
+    <state width="1877" height="402" key="GridCell.Tab.0.center" timestamp="1599072557474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="402" key="GridCell.Tab.0.center/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599072557474" />
+    <state width="1877" height="402" key="GridCell.Tab.0.left" timestamp="1599072557474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="402" key="GridCell.Tab.0.left/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599072557474" />
+    <state width="1877" height="402" key="GridCell.Tab.0.right" timestamp="1599072557474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="402" key="GridCell.Tab.0.right/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599072557474" />
+    <state width="1877" height="402" key="GridCell.Tab.1.bottom" timestamp="1599072557475">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="402" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599072557475" />
+    <state width="1877" height="402" key="GridCell.Tab.1.center" timestamp="1599072557474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="402" key="GridCell.Tab.1.center/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599072557474" />
+    <state width="1877" height="402" key="GridCell.Tab.1.left" timestamp="1599072557474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="402" key="GridCell.Tab.1.left/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599072557474" />
+    <state width="1877" height="402" key="GridCell.Tab.1.right" timestamp="1599072557474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="402" key="GridCell.Tab.1.right/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599072557474" />
+    <state x="235" y="128" width="1386" height="710" key="SettingsEditor" timestamp="1599063834669">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="235" y="128" width="1386" height="710" key="SettingsEditor/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599063834669" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599074065964">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1599074065964" />
+    <state x="564" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596048142749">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="564" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1596048142749" />
+    <state x="514" y="254" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595956801644">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="514" y="254" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1595956801644" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1596489018982">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/-1280.39.1280.994/1920.156.1920.1050@0.0.1920.1050" timestamp="1596489018982" />
+  </component>
+</project>

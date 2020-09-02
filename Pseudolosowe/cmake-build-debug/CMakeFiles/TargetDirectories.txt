@@ -1,0 +1,3 @@
+H:/Uczenie/Pseudolosowe/cmake-build-debug/CMakeFiles/Pseudolosowe.dir
+H:/Uczenie/Pseudolosowe/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Uczenie/Pseudolosowe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
